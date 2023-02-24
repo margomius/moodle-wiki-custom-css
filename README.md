@@ -20,7 +20,7 @@ This custom CSS code tries to style the wiki activity in moodle similar to the G
 
 ### Use Custom CSS only for one Wiki Activity
 
-Right-click page > inspect > search for cmid-X (X is a n id, for example 100)
+Right-click page > inspect > search for cmid-X (X is an id, for example "100")
 Replace all selectors in the CSS code.
 
 Instead of
