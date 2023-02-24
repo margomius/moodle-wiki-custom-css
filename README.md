@@ -23,6 +23,7 @@ This custom CSS code tries to style the wiki activity in moodle similar to the G
 The provided code will style all wiki activities on a moodle site.
 
 **Here is how you can style only one specific wiki activity:**
+
 Right-click page > inspect > search for cmid-X (X is an id, for example "100")
 Replace all selectors in the CSS code.
 
