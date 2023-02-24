@@ -28,16 +28,6 @@
     margin-bottom: 0.35em;
     }
 
-#page-mod-wiki-view #region-main p, #page-mod-wiki-edit #region-main p {
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
-
-#page-mod-wiki-view #region-main .wiki-toc p {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
 #page-mod-wiki-view #region-main img, #page-mod-wiki-edit #region-main img {
     max-width: 100%;
     height: auto;
