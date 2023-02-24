@@ -49,7 +49,7 @@ Inspiration, code snippets, etc.
 ## Screenshots
 
 ### Custom CSS (Moodle 4.1+)
-![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/05_List_View.PNG?raw=true)
+![image](https://github.com/margomius/moodle-wiki-custom-css/blob/main/Screenshots/Wiki_Custom.PNG?raw=true)
 
 ### Default CSS (Moodle 4.1+)
-![image](https://github.com/margomius/moodle-database-generator/blob/main/Screenshots/06_Single_View.PNG?raw=true)
+![image](https://github.com/margomius/moodle-wiki-custom-css/blob/main/Screenshots/Wiki_Default.PNG?raw=true)
