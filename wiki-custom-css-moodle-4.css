@@ -2,6 +2,7 @@
 #page-mod-wiki-view #region-main h3, #page-mod-wiki-edit #region-main h3 {
     font-weight: 600;
     font-size: 1.8em;
+    margin-top: 1em;
     margin-bottom: 0.5em;
     border-bottom: 1px solid #b2b2b2;
     padding-bottom: 3px;
@@ -15,20 +16,17 @@
 #page-mod-wiki-view #region-main h4, #page-mod-wiki-edit #region-main h4 {
     font-weight: 400;    
     font-size: 1.5em;
-    margin-bottom: 0.25em;
+    margin-top: 0.5em;
+    margin-bottom: 0.35em;
     border-bottom: 1px solid #b2b2b2;
     padding-bottom: 3px;
     }
 #page-mod-wiki-view #region-main h5, #page-mod-wiki-edit #region-main h5 {
     font-weight: 600;
     font-size: 1.2em;
-    margin-bottom: 0.25em;
+    margin-top: 0,5em;
+    margin-bottom: 0.35em;
     }
-
-#page-mod-wiki-view #region-main div, #page-mod-wiki-edit #region-main div {
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
 
 #page-mod-wiki-view #region-main p, #page-mod-wiki-edit #region-main p {
     margin-top: 0;
