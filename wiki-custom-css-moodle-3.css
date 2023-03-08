@@ -30,7 +30,7 @@
     margin-bottom: 1rem;
 }
 
-#page-mod-wiki-view #region-main .wiki-toc p {
+#page-mod-wiki-view #region-main .no-overflow > .wiki-toc p {
     margin-top: 0;
     margin-bottom: 0;
 }
